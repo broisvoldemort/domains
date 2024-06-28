@@ -1,1 +1,8 @@
 
+{
+  "domains": {
+    "example.com": {
+      "repo": "https://github.com/brosivoldemort/domains",
+      "index": "index.html"
+    }
+  }
